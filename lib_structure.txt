@@ -1,0 +1,65 @@
+Folder PATH listing for volume OS
+Volume serial number is ACE5-01F7
+C:\USERS\ALEXA\BONIFATUS\LIB
+¦   main.dart
+¦   
++---Models
+¦       grading_models.dart
+¦       language_model.dart
+¦       student.dart
+¦       student_invitation_model.dart
+¦       subject.dart
+¦       term_results_model.dart
+¦       user_relationship_models.dart
+¦       
++---Providers
+¦       language_provider.dart
+¦       theme_provider.dart
+¦       
++---Screens
+¦   +---Auth
+¦   ¦       login_page.dart
+¦   ¦       registration_screen.dart
+¦   ¦       reset_password_page.dart
+¦   ¦       
+¦   +---Calculator
+¦   ¦       bonus_calculator.dart
+¦   ¦       logged_in_calculator_view.dart
+¦   ¦       
+¦   +---Parent
+¦   ¦       add_student_screen.dart
+¦   ¦       parent_dashboard.dart
+¦   ¦       student_edit_dialog.dart
+¦   ¦       student_list_screen.dart
+¦   ¦       
+¦   +---Profile
+¦   ¦       user_account_service.dart
+¦   ¦       user_profile_screen.dart
+¦   ¦       
+¦   +---Progress
+¦   ¦       progress_screen.dart
+¦   ¦       
+¦   +---Settings
+¦   ¦       settings_screen.dart
+¦   ¦       
+¦   +---Student
+¦           parent_connection_screen.dart
+¦           student_profile_screen.dart
+¦           
++---Services
+¦       api_service.dart
+¦       auth_service.dart
+¦       relationship_service.dart
+¦       
++---Settings
++---Utils
+¦       digit_only_formatter.dart
+¦       type_converter.dart
+¦       
++---Widgets
+        grades_results_widget.dart
+        login_prompt_widget.dart
+        student_list_item.dart
+        subject_grade_card.dart
+        subject_selection_dialog.dart
+        

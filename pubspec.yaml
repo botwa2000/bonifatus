@@ -1,0 +1,36 @@
+name: bonifatus
+description: "A new Flutter project calculating the school bonus points."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  connectivity_plus: ^6.1.0
+  shared_preferences: ^2.3.4
+  cupertino_icons: ^1.0.8
+  path_provider_android: ^2.2.0
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  collection: ^1.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+
+  # Uncomment and update this section if you have any assets
+  # assets:
+  #   - images/
+  #   - data/

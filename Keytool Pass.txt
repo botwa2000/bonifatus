@@ -1,0 +1,25 @@
+Botwa2002!
+
+PS C:\Users\Alexa\bonifatus> keytool -genkey -v -keystore C:\Users\Alexa\key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+Enter keystore password:  
+Re-enter new password: 
+Enter the distinguished name. Provide a single dot (.) to leave a sub-component empty or press ENTER to use the default value in braces.
+What is your first and last name?
+  [Unknown]:  Alex Perel
+What is the name of your organizational unit?
+  [Unknown]:  Bonifatus
+What is the name of your organization?
+  [Unknown]:  Bonifatus
+What is the name of your City or Locality?
+  [Unknown]:  Bad Homburg
+What is the name of your State or Province?
+  [Unknown]:  Hesse
+What is the two-letter country code for this unit?
+  [Unknown]:  DE
+Is CN=Alex Perel, OU=Bonifatus, O=Bonifatus, L=Bad Homburg, ST=Hesse, C=DE correct?
+  [no]:
+
+
+Generating 2,048 bit RSA key pair and self-signed certificate (SHA256withRSA) with a validity of 10,000 days
+for: CN=YourOrganization, OU=YourDepartment, O=YourOrganization, L=YourCity, ST=YourState, C=XX
+[Storing C:\Users\Alexa\key.jks]

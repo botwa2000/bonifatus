@@ -1,0 +1,984 @@
+Folder PATH listing for volume OS
+Volume serial number is ACE5-01F7
+C:.
++---.dart_tool
+¦   +---dartpad
+¦   +---flutter_build
+¦       +---4f074a3cf5ec04115d5642c81b9e1f0c
++---.idea
+¦   +---caches
+¦   +---libraries
+¦   +---runConfigurations
++---android
+¦   +---.gradle
+¦   ¦   +---8.5
+¦   ¦   ¦   +---checksums
+¦   ¦   ¦   +---dependencies-accessors
+¦   ¦   ¦   +---executionHistory
+¦   ¦   ¦   +---fileChanges
+¦   ¦   ¦   +---fileHashes
+¦   ¦   ¦   +---vcsMetadata
+¦   ¦   +---buildOutputCleanup
+¦   ¦   +---kotlin
+¦   ¦   ¦   +---errors
+¦   ¦   ¦   +---sessions
+¦   ¦   +---noVersion
+¦   ¦   +---vcs-1
+¦   +---app
+¦   ¦   +---build
+¦   ¦   ¦   +---generated
+¦   ¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---res
+¦   ¦   ¦   ¦       +---pngs
+¦   ¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦   ¦       +---resValues
+¦   ¦   ¦   ¦           +---debug
+¦   ¦   ¦   +---intermediates
+¦   ¦   ¦   ¦   +---aar_metadata_check
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---apk_ide_redirect_file
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---app_metadata
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---assets
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---flutter_assets
+¦   ¦   ¦   ¦   ¦           +---fonts
+¦   ¦   ¦   ¦   ¦           +---packages
+¦   ¦   ¦   ¦   ¦           ¦   +---cupertino_icons
+¦   ¦   ¦   ¦   ¦           ¦       +---assets
+¦   ¦   ¦   ¦   ¦           +---shaders
+¦   ¦   ¦   ¦   +---compatible_screen_manifest
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---compile_and_runtime_not_namespaced_r_class_jar
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---compressed_assets
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---assets
+¦   ¦   ¦   ¦   ¦               +---flutter_assets
+¦   ¦   ¦   ¦   ¦                   +---fonts
+¦   ¦   ¦   ¦   ¦                   +---packages
+¦   ¦   ¦   ¦   ¦                   ¦   +---cupertino_icons
+¦   ¦   ¦   ¦   ¦                   ¦       +---assets
+¦   ¦   ¦   ¦   ¦                   +---shaders
+¦   ¦   ¦   ¦   +---data_binding_layout_info_type_merge
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---desugar_graph
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---currentProject
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_0
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_1
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_2
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_3
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_4
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_5
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_6
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_7
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_8
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_9
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_0
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_1
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_2
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_3
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_4
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_5
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_6
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_7
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_8
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_5b5d867e7d38f2042a83f408ba06bc5ee1943d53ff746690d40a501cd6cdc2cb_bucket_9
+¦   ¦   ¦   ¦   ¦           +---externalLibs
+¦   ¦   ¦   ¦   ¦           +---mixedScopes
+¦   ¦   ¦   ¦   ¦           +---otherProjects
+¦   ¦   ¦   ¦   +---dex
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---mergeExtDexDebug
+¦   ¦   ¦   ¦   ¦       +---mergeLibDexDebug
+¦   ¦   ¦   ¦   ¦       ¦   +---0
+¦   ¦   ¦   ¦   ¦       ¦   +---1
+¦   ¦   ¦   ¦   ¦       ¦   +---10
+¦   ¦   ¦   ¦   ¦       ¦   +---11
+¦   ¦   ¦   ¦   ¦       ¦   +---12
+¦   ¦   ¦   ¦   ¦       ¦   +---13
+¦   ¦   ¦   ¦   ¦       ¦   +---14
+¦   ¦   ¦   ¦   ¦       ¦   +---15
+¦   ¦   ¦   ¦   ¦       ¦   +---2
+¦   ¦   ¦   ¦   ¦       ¦   +---3
+¦   ¦   ¦   ¦   ¦       ¦   +---4
+¦   ¦   ¦   ¦   ¦       ¦   +---5
+¦   ¦   ¦   ¦   ¦       ¦   +---6
+¦   ¦   ¦   ¦   ¦       ¦   +---7
+¦   ¦   ¦   ¦   ¦       ¦   +---8
+¦   ¦   ¦   ¦   ¦       ¦   +---9
+¦   ¦   ¦   ¦   ¦       +---mergeProjectDexDebug
+¦   ¦   ¦   ¦   ¦           +---0
+¦   ¦   ¦   ¦   ¦           +---1
+¦   ¦   ¦   ¦   ¦           +---10
+¦   ¦   ¦   ¦   ¦           +---11
+¦   ¦   ¦   ¦   ¦           +---12
+¦   ¦   ¦   ¦   ¦           +---13
+¦   ¦   ¦   ¦   ¦           +---14
+¦   ¦   ¦   ¦   ¦           +---15
+¦   ¦   ¦   ¦   ¦           +---2
+¦   ¦   ¦   ¦   ¦           +---3
+¦   ¦   ¦   ¦   ¦           +---4
+¦   ¦   ¦   ¦   ¦           +---5
+¦   ¦   ¦   ¦   ¦           +---6
+¦   ¦   ¦   ¦   ¦           +---7
+¦   ¦   ¦   ¦   ¦           +---8
+¦   ¦   ¦   ¦   ¦           +---9
+¦   ¦   ¦   ¦   +---dex_archive_input_jar_hashes
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---dex_number_of_buckets_file
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---duplicate_classes_check
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---external_file_lib_dex_archives
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---external_libs_dex_archive
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---external_libs_dex_archive_with_artifact_transforms
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---flutter
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---flutter_assets
+¦   ¦   ¦   ¦   ¦           +---fonts
+¦   ¦   ¦   ¦   ¦           +---packages
+¦   ¦   ¦   ¦   ¦           ¦   +---cupertino_icons
+¦   ¦   ¦   ¦   ¦           ¦       +---assets
+¦   ¦   ¦   ¦   ¦           +---shaders
+¦   ¦   ¦   ¦   +---global_synthetics_dex
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---global_synthetics_external_lib
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---global_synthetics_external_libs_artifact_transform
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---global_synthetics_file_lib
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---global_synthetics_mixed_scope
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---global_synthetics_project
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---global_synthetics_subproject
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   ¦   +---mergeDebugResources
+¦   ¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-af
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-am
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ar
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-as
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-az
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-b+sr+Latn
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-be
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-bg
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-bn
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-bs
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ca
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-cs
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-da
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-de
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-el
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-en-rAU
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-en-rCA
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-en-rGB
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-en-rIN
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-en-rXC
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-es
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-es-rUS
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-et
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-eu
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-fa
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-fi
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-fr
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-fr-rCA
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-gl
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-gu
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-hi
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-hr
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-hu
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-hy
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-in
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-is
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-it
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-iw
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ja
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ka
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-kk
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-km
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-kn
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ko
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ky
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-lo
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-lt
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-lv
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-mk
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ml
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-mn
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-mr
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ms
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-my
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-nb
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ne
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-night-v8
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-nl
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-or
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-pa
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-pl
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-pt
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-pt-rBR
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-pt-rPT
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ro
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ru
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-si
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-sk
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-sl
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-sq
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-sr
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-sv
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-sw
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ta
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-te
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-th
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-tl
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-tr
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-uk
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-ur
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-uz
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-v21
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-vi
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-zh-rCN
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-zh-rHK
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-zh-rTW
+¦   ¦   ¦   ¦   ¦   ¦       ¦   +---values-zu
+¦   ¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   ¦   +---mergeDebugAssets
+¦   ¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦   +---packageDebug
+¦   ¦   ¦   ¦   ¦       +---tmp
+¦   ¦   ¦   ¦   ¦           +---debug
+¦   ¦   ¦   ¦   ¦               +---zip-cache
+¦   ¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦   +---java_res
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦   ¦           ¦   +---example
+¦   ¦   ¦   ¦   ¦           ¦       +---bonifatus
+¦   ¦   ¦   ¦   ¦           +---META-INF
+¦   ¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---merged_manifests
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---merged_native_libs
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---lib
+¦   ¦   ¦   ¦   ¦               +---x86
+¦   ¦   ¦   ¦   ¦               +---x86_64
+¦   ¦   ¦   ¦   +---merged_res
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---merged_res_blame_folder
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---multi-v2
+¦   ¦   ¦   ¦   ¦           +---single
+¦   ¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---mixed_scope_dex_archive
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---packaged_manifests
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---processed_res
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---project_dex_archive
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦   ¦           ¦   +---example
+¦   ¦   ¦   ¦   ¦           ¦       +---bonifatus
+¦   ¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦   +---runtime_symbol_list
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---signing_config_versions
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---source_set_path_map
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---stable_resource_ids_file
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---stripped_native_libs
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---lib
+¦   ¦   ¦   ¦   ¦               +---x86
+¦   ¦   ¦   ¦   ¦               +---x86_64
+¦   ¦   ¦   ¦   +---sub_project_dex_archive
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---validate_signing_config
+¦   ¦   ¦   ¦       +---debug
+¦   ¦   ¦   +---kotlin
+¦   ¦   ¦   ¦   +---compileDebugKotlin
+¦   ¦   ¦   ¦       +---cacheable
+¦   ¦   ¦   ¦       ¦   +---caches-jvm
+¦   ¦   ¦   ¦       ¦       +---inputs
+¦   ¦   ¦   ¦       ¦       +---jvm
+¦   ¦   ¦   ¦       ¦       ¦   +---kotlin
+¦   ¦   ¦   ¦       ¦       +---lookups
+¦   ¦   ¦   ¦       +---classpath-snapshot
+¦   ¦   ¦   ¦       +---local-state
+¦   ¦   ¦   +---outputs
+¦   ¦   ¦   ¦   +---apk
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---flutter-apk
+¦   ¦   ¦   ¦   +---logs
+¦   ¦   ¦   +---tmp
+¦   ¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦   ¦       +---kotlin-classes
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       ¦       +---com
+¦   ¦   ¦       ¦       ¦   +---example
+¦   ¦   ¦       ¦       ¦       +---bonifatus
+¦   ¦   ¦       ¦       +---META-INF
+¦   ¦   ¦       +---packJniLibsflutterBuildDebug
+¦   ¦   +---src
+¦   ¦       +---debug
+¦   ¦       +---main
+¦   ¦       ¦   +---java
+¦   ¦       ¦   ¦   +---io
+¦   ¦       ¦   ¦       +---flutter
+¦   ¦       ¦   ¦           +---plugins
+¦   ¦       ¦   +---kotlin
+¦   ¦       ¦   ¦   +---com
+¦   ¦       ¦   ¦       +---example
+¦   ¦       ¦   ¦           +---bonifatus
+¦   ¦       ¦   +---res
+¦   ¦       ¦       +---drawable
+¦   ¦       ¦       +---drawable-v21
+¦   ¦       ¦       +---mipmap-hdpi
+¦   ¦       ¦       +---mipmap-mdpi
+¦   ¦       ¦       +---mipmap-xhdpi
+¦   ¦       ¦       +---mipmap-xxhdpi
+¦   ¦       ¦       +---mipmap-xxxhdpi
+¦   ¦       ¦       +---values
+¦   ¦       ¦       +---values-night
+¦   ¦       +---profile
+¦   +---gradle
+¦       +---wrapper
++---build
+¦   +---8e6007015702e62c23ac10d8c1bf2413
+¦   +---flutter_assets
+¦   ¦   +---fonts
+¦   ¦   +---packages
+¦   ¦   ¦   +---cupertino_icons
+¦   ¦   ¦       +---assets
+¦   ¦   +---shaders
+¦   +---native_assets
+¦   ¦   +---windows
+¦   +---windows
+¦       +---x64
+¦           +---CMakeFiles
+¦           ¦   +---178fdac9a5f65b0729ca2ae2c8a6b280
+¦           ¦   +---2eee6f462de0fc92b7d3c831ee4280f4
+¦           ¦   +---3.20.21032501-MSVC_2
+¦           ¦   ¦   +---CompilerIdCXX
+¦           ¦   ¦   ¦   +---Debug
+¦           ¦   ¦   ¦   ¦   +---CompilerIdCXX.tlog
+¦           ¦   ¦   ¦   +---tmp
+¦           ¦   ¦   +---x64
+¦           ¦   ¦       +---Debug
+¦           ¦   ¦           +---VCTargetsPath.tlog
+¦           ¦   +---3e6678f551a378259d07b550d09c3151
+¦           ¦   +---7fc56b1a2c24cf5b0ee4b7314e790fca
+¦           ¦   +---CMakeTmp
+¦           ¦   +---d6e38f21e6c3d7d6de3c7b80d192ad37
+¦           +---flutter
+¦           ¦   +---CMakeFiles
+¦           ¦   +---Debug
+¦           ¦   +---flutter_wrapper_app.dir
+¦           ¦   ¦   +---Debug
+¦           ¦   ¦       +---flutter_.EAE237B8.tlog
+¦           ¦   +---flutter_wrapper_plugin.dir
+¦           ¦   ¦   +---Debug
+¦           ¦   ¦       +---flutter_.3271905A.tlog
+¦           ¦   +---x64
+¦           ¦       +---Debug
+¦           ¦           +---flutter_assemble
+¦           ¦               +---flutter_assemble.tlog
+¦           +---plugins
+¦           ¦   +---connectivity_plus
+¦           ¦       +---CMakeFiles
+¦           ¦       +---connectivity_plus_plugin.dir
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦       +---connecti.B5070488.tlog
+¦           ¦       +---Debug
+¦           +---runner
+¦           ¦   +---bonifatus.dir
+¦           ¦   ¦   +---Debug
+¦           ¦   ¦       +---bonifatus.tlog
+¦           ¦   +---CMakeFiles
+¦           ¦   +---Debug
+¦           ¦       +---data
+¦           ¦           +---flutter_assets
+¦           ¦               +---fonts
+¦           ¦               +---packages
+¦           ¦               ¦   +---cupertino_icons
+¦           ¦               ¦       +---assets
+¦           ¦               +---shaders
+¦           +---x64
+¦               +---Debug
+¦                   +---ALL_BUILD
+¦                   ¦   +---ALL_BUILD.tlog
+¦                   +---INSTALL
+¦                   ¦   +---INSTALL.tlog
+¦                   +---ZERO_CHECK
+¦                       +---ZERO_CHECK.tlog
++---fonts
++---ios
+¦   +---Flutter
+¦   +---Runner
+¦   ¦   +---Assets.xcassets
+¦   ¦   ¦   +---AppIcon.appiconset
+¦   ¦   ¦   +---LaunchImage.imageset
+¦   ¦   +---Base.lproj
+¦   +---Runner.xcodeproj
+¦   ¦   +---project.xcworkspace
+¦   ¦   ¦   +---xcshareddata
+¦   ¦   +---xcshareddata
+¦   ¦       +---xcschemes
+¦   +---Runner.xcworkspace
+¦   ¦   +---xcshareddata
+¦   +---RunnerTests
++---lib
+¦   +---Models
+¦   +---Providers
+¦   +---Screens
+¦   ¦   +---Auth
+¦   ¦   +---Calculator
+¦   ¦   +---Parent
+¦   ¦   +---Profile
+¦   ¦   +---Settings
+¦   ¦   +---Student
+¦   +---Services
+¦   +---Settings
+¦   +---Utils
+¦   +---Widgets
++---lib - Backup
+¦   +---Models
+¦   +---Providers
+¦   +---Screens
+¦   ¦   +---Auth
+¦   ¦   +---Calculator
+¦   ¦   +---Profile
+¦   ¦   +---Settings
+¦   +---Services
+¦   +---Settings
+¦   +---Utils
+¦   +---Widgets
++---linux
+¦   +---flutter
+¦       +---ephemeral
+¦           +---.plugin_symlinks
+¦               +---connectivity_plus
+¦               ¦   +---android
+¦               ¦   ¦   +---build
+¦               ¦   ¦   ¦   +---.transforms
+¦               ¦   ¦   ¦   ¦   +---18fc3752bd31f6fbdf6047d176dbdb98
+¦               ¦   ¦   ¦   ¦   ¦   +---transformed
+¦               ¦   ¦   ¦   ¦   ¦       +---classes
+¦               ¦   ¦   ¦   ¦   ¦           +---classes_dex
+¦               ¦   ¦   ¦   ¦   ¦           +---classes_global-synthetics
+¦               ¦   ¦   ¦   ¦   +---abf653cb56233fc3f893468dd83d82bb
+¦               ¦   ¦   ¦   ¦   ¦   +---transformed
+¦               ¦   ¦   ¦   ¦   +---f8fc21758f5d30b5b0bfd1f066e10a09
+¦               ¦   ¦   ¦   ¦       +---transformed
+¦               ¦   ¦   ¦   +---generated
+¦               ¦   ¦   ¦   ¦   +---ap_generated_sources
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---out
+¦               ¦   ¦   ¦   ¦   +---res
+¦               ¦   ¦   ¦   ¦   ¦   +---pngs
+¦               ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦   +---resValues
+¦               ¦   ¦   ¦   ¦   ¦       +---debug
+¦               ¦   ¦   ¦   ¦   +---source
+¦               ¦   ¦   ¦   ¦       +---buildConfig
+¦               ¦   ¦   ¦   ¦           +---debug
+¦               ¦   ¦   ¦   ¦               +---dev
+¦               ¦   ¦   ¦   ¦                   +---fluttercommunity
+¦               ¦   ¦   ¦   ¦                       +---plus
+¦               ¦   ¦   ¦   ¦                           +---connectivity
+¦               ¦   ¦   ¦   +---intermediates
+¦               ¦   ¦   ¦   ¦   +---aapt_friendly_merged_manifests
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---aapt
+¦               ¦   ¦   ¦   ¦   +---aar_libs_directory
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---libs
+¦               ¦   ¦   ¦   ¦   +---aar_main_jar
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---aar_metadata
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---annotations_typedef_file
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---annotations_zip
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---annotation_processor_list
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---compiled_local_resources
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---out
+¦               ¦   ¦   ¦   ¦   +---compile_library_classes_jar
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---compile_r_class_jar
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---compile_symbol_list
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---out
+¦               ¦   ¦   ¦   ¦   +---incremental
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦               ¦   ¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦               ¦   ¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦               ¦   ¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦               ¦   ¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦               ¦   ¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦               ¦   ¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦               ¦   ¦   ¦   ¦   ¦   +---packageDebugAssets
+¦               ¦   ¦   ¦   ¦   +---javac
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---classes
+¦               ¦   ¦   ¦   ¦   ¦           +---dev
+¦               ¦   ¦   ¦   ¦   ¦               +---fluttercommunity
+¦               ¦   ¦   ¦   ¦   ¦                   +---plus
+¦               ¦   ¦   ¦   ¦   ¦                       +---connectivity
+¦               ¦   ¦   ¦   ¦   +---library_and_local_jars_jni
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---jni
+¦               ¦   ¦   ¦   ¦   +---library_assets
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---out
+¦               ¦   ¦   ¦   ¦   +---library_jni
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---jni
+¦               ¦   ¦   ¦   ¦   +---local_only_symbol_list
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---manifest_merge_blame_file
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---merged_java_res
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---merged_jni_libs
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---out
+¦               ¦   ¦   ¦   ¦   +---merged_manifest
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---merged_shaders
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   ¦       +---out
+¦               ¦   ¦   ¦   ¦   +---navigation_json
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---packaged_res
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---public_res
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---runtime_library_classes_jar
+¦               ¦   ¦   ¦   ¦   ¦   +---debug
+¦               ¦   ¦   ¦   ¦   +---symbol_list_with_package_name
+¦               ¦   ¦   ¦   ¦       +---debug
+¦               ¦   ¦   ¦   +---outputs
+¦               ¦   ¦   ¦   ¦   +---aar
+¦               ¦   ¦   ¦   ¦   +---logs
+¦               ¦   ¦   ¦   +---tmp
+¦               ¦   ¦   ¦       +---compileDebugJavaWithJavac
+¦               ¦   ¦   ¦           +---compileTransaction
+¦               ¦   ¦   ¦               +---backup-dir
+¦               ¦   ¦   ¦               +---stash-dir
+¦               ¦   ¦   +---gradle
+¦               ¦   ¦   ¦   +---wrapper
+¦               ¦   ¦   +---src
+¦               ¦   ¦       +---main
+¦               ¦   ¦           +---java
+¦               ¦   ¦               +---dev
+¦               ¦   ¦                   +---fluttercommunity
+¦               ¦   ¦                       +---plus
+¦               ¦   ¦                           +---connectivity
+¦               ¦   +---example
+¦               ¦   ¦   +---android
+¦               ¦   ¦   ¦   +---app
+¦               ¦   ¦   ¦   ¦   +---gradle
+¦               ¦   ¦   ¦   ¦   ¦   +---wrapper
+¦               ¦   ¦   ¦   ¦   +---src
+¦               ¦   ¦   ¦   ¦       +---main
+¦               ¦   ¦   ¦   ¦           +---java
+¦               ¦   ¦   ¦   ¦           ¦   +---io
+¦               ¦   ¦   ¦   ¦           ¦       +---flutter
+¦               ¦   ¦   ¦   ¦           ¦           +---plugins
+¦               ¦   ¦   ¦   ¦           ¦               +---connectivityexample
+¦               ¦   ¦   ¦   ¦           +---res
+¦               ¦   ¦   ¦   ¦               +---mipmap-hdpi
+¦               ¦   ¦   ¦   ¦               +---mipmap-mdpi
+¦               ¦   ¦   ¦   ¦               +---mipmap-xhdpi
+¦               ¦   ¦   ¦   ¦               +---mipmap-xxhdpi
+¦               ¦   ¦   ¦   ¦               +---mipmap-xxxhdpi
+¦               ¦   ¦   ¦   +---gradle
+¦               ¦   ¦   ¦       +---wrapper
+¦               ¦   ¦   +---integration_test
+¦               ¦   ¦   +---ios
+¦               ¦   ¦   ¦   +---Flutter
+¦               ¦   ¦   ¦   +---Runner
+¦               ¦   ¦   ¦   ¦   +---Assets.xcassets
+¦               ¦   ¦   ¦   ¦   ¦   +---AppIcon.appiconset
+¦               ¦   ¦   ¦   ¦   ¦   +---LaunchImage.imageset
+¦               ¦   ¦   ¦   ¦   +---Base.lproj
+¦               ¦   ¦   ¦   +---Runner.xcodeproj
+¦               ¦   ¦   ¦   ¦   +---project.xcworkspace
+¦               ¦   ¦   ¦   ¦   ¦   +---xcshareddata
+¦               ¦   ¦   ¦   ¦   +---xcshareddata
+¦               ¦   ¦   ¦   ¦       +---xcschemes
+¦               ¦   ¦   ¦   +---Runner.xcworkspace
+¦               ¦   ¦   ¦   ¦   +---xcshareddata
+¦               ¦   ¦   ¦   +---RunnerTests
+¦               ¦   ¦   +---lib
+¦               ¦   ¦   +---linux
+¦               ¦   ¦   ¦   +---flutter
+¦               ¦   ¦   +---macos
+¦               ¦   ¦   ¦   +---Flutter
+¦               ¦   ¦   ¦   +---Runner
+¦               ¦   ¦   ¦   ¦   +---Assets.xcassets
+¦               ¦   ¦   ¦   ¦   ¦   +---AppIcon.appiconset
+¦               ¦   ¦   ¦   ¦   +---Base.lproj
+¦               ¦   ¦   ¦   ¦   +---Configs
+¦               ¦   ¦   ¦   +---Runner.xcodeproj
+¦               ¦   ¦   ¦   ¦   +---project.xcworkspace
+¦               ¦   ¦   ¦   ¦   ¦   +---xcshareddata
+¦               ¦   ¦   ¦   ¦   +---xcshareddata
+¦               ¦   ¦   ¦   ¦       +---xcschemes
+¦               ¦   ¦   ¦   +---Runner.xcworkspace
+¦               ¦   ¦   ¦   ¦   +---xcshareddata
+¦               ¦   ¦   ¦   +---RunnerTests
+¦               ¦   ¦   +---web
+¦               ¦   ¦   ¦   +---icons
+¦               ¦   ¦   +---windows
+¦               ¦   ¦       +---flutter
+¦               ¦   ¦       +---runner
+¦               ¦   ¦           +---resources
+¦               ¦   +---ios
+¦               ¦   ¦   +---Classes
+¦               ¦   +---lib
+¦               ¦   ¦   +---src
+¦               ¦   ¦       +---web
+¦               ¦   ¦           +---utils
+¦               ¦   +---macos
+¦               ¦   ¦   +---Classes
+¦               ¦   +---test
+¦               ¦   +---windows
+¦               ¦       +---include
+¦               ¦           +---connectivity_plus
+¦               +---path_provider_linux
+¦               ¦   +---example
+¦               ¦   ¦   +---integration_test
+¦               ¦   ¦   +---lib
+¦               ¦   ¦   +---linux
+¦               ¦   ¦   ¦   +---flutter
+¦               ¦   ¦   +---test_driver
+¦               ¦   +---lib
+¦               ¦   ¦   +---src
+¦               ¦   +---test
+¦               +---shared_preferences_linux
+¦                   +---example
+¦                   ¦   +---integration_test
+¦                   ¦   +---lib
+¦                   ¦   +---linux
+¦                   ¦   ¦   +---flutter
+¦                   ¦   +---test_driver
+¦                   +---lib
+¦                   +---test
++---macos
+¦   +---Flutter
+¦   ¦   +---ephemeral
+¦   +---Runner
+¦   ¦   +---Assets.xcassets
+¦   ¦   ¦   +---AppIcon.appiconset
+¦   ¦   +---Base.lproj
+¦   ¦   +---Configs
+¦   +---Runner.xcodeproj
+¦   ¦   +---project.xcworkspace
+¦   ¦   ¦   +---xcshareddata
+¦   ¦   +---xcshareddata
+¦   ¦       +---xcschemes
+¦   +---Runner.xcworkspace
+¦   ¦   +---xcshareddata
+¦   +---RunnerTests
++---test
++---web
+¦   +---icons
++---windows
+    +---flutter
+    ¦   +---ephemeral
+    ¦       +---.plugin_symlinks
+    ¦       ¦   +---connectivity_plus
+    ¦       ¦   ¦   +---android
+    ¦       ¦   ¦   ¦   +---build
+    ¦       ¦   ¦   ¦   ¦   +---.transforms
+    ¦       ¦   ¦   ¦   ¦   ¦   +---18fc3752bd31f6fbdf6047d176dbdb98
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---transformed
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---classes
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦           +---classes_dex
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦           +---classes_global-synthetics
+    ¦       ¦   ¦   ¦   ¦   ¦   +---abf653cb56233fc3f893468dd83d82bb
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---transformed
+    ¦       ¦   ¦   ¦   ¦   ¦   +---f8fc21758f5d30b5b0bfd1f066e10a09
+    ¦       ¦   ¦   ¦   ¦   ¦       +---transformed
+    ¦       ¦   ¦   ¦   ¦   +---generated
+    ¦       ¦   ¦   ¦   ¦   ¦   +---ap_generated_sources
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---out
+    ¦       ¦   ¦   ¦   ¦   ¦   +---res
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---pngs
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---resValues
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---source
+    ¦       ¦   ¦   ¦   ¦   ¦       +---buildConfig
+    ¦       ¦   ¦   ¦   ¦   ¦           +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦               +---dev
+    ¦       ¦   ¦   ¦   ¦   ¦                   +---fluttercommunity
+    ¦       ¦   ¦   ¦   ¦   ¦                       +---plus
+    ¦       ¦   ¦   ¦   ¦   ¦                           +---connectivity
+    ¦       ¦   ¦   ¦   ¦   +---intermediates
+    ¦       ¦   ¦   ¦   ¦   ¦   +---aapt_friendly_merged_manifests
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---aapt
+    ¦       ¦   ¦   ¦   ¦   ¦   +---aar_libs_directory
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---libs
+    ¦       ¦   ¦   ¦   ¦   ¦   +---aar_main_jar
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---aar_metadata
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---annotations_typedef_file
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---annotations_zip
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---annotation_processor_list
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---compiled_local_resources
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---out
+    ¦       ¦   ¦   ¦   ¦   ¦   +---compile_library_classes_jar
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---compile_r_class_jar
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---compile_symbol_list
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---data_binding_layout_info_type_package
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---out
+    ¦       ¦   ¦   ¦   ¦   ¦   +---incremental
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   ¦       +---merged.dir
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   ¦       +---stripped.dir
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---zip-cache
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---mergeDebugShaders
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---packageDebugAssets
+    ¦       ¦   ¦   ¦   ¦   ¦   +---javac
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---classes
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦           +---dev
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦               +---fluttercommunity
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦                   +---plus
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦                       +---connectivity
+    ¦       ¦   ¦   ¦   ¦   ¦   +---library_and_local_jars_jni
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---jni
+    ¦       ¦   ¦   ¦   ¦   ¦   +---library_assets
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---out
+    ¦       ¦   ¦   ¦   ¦   ¦   +---library_jni
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---jni
+    ¦       ¦   ¦   ¦   ¦   ¦   +---local_only_symbol_list
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---manifest_merge_blame_file
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---merged_java_res
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---merged_jni_libs
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---out
+    ¦       ¦   ¦   ¦   ¦   ¦   +---merged_manifest
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---merged_shaders
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦       +---out
+    ¦       ¦   ¦   ¦   ¦   ¦   +---navigation_json
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---packaged_res
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---public_res
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---runtime_library_classes_jar
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---debug
+    ¦       ¦   ¦   ¦   ¦   ¦   +---symbol_list_with_package_name
+    ¦       ¦   ¦   ¦   ¦   ¦       +---debug
+    ¦       ¦   ¦   ¦   ¦   +---outputs
+    ¦       ¦   ¦   ¦   ¦   ¦   +---aar
+    ¦       ¦   ¦   ¦   ¦   ¦   +---logs
+    ¦       ¦   ¦   ¦   ¦   +---tmp
+    ¦       ¦   ¦   ¦   ¦       +---compileDebugJavaWithJavac
+    ¦       ¦   ¦   ¦   ¦           +---compileTransaction
+    ¦       ¦   ¦   ¦   ¦               +---backup-dir
+    ¦       ¦   ¦   ¦   ¦               +---stash-dir
+    ¦       ¦   ¦   ¦   +---gradle
+    ¦       ¦   ¦   ¦   ¦   +---wrapper
+    ¦       ¦   ¦   ¦   +---src
+    ¦       ¦   ¦   ¦       +---main
+    ¦       ¦   ¦   ¦           +---java
+    ¦       ¦   ¦   ¦               +---dev
+    ¦       ¦   ¦   ¦                   +---fluttercommunity
+    ¦       ¦   ¦   ¦                       +---plus
+    ¦       ¦   ¦   ¦                           +---connectivity
+    ¦       ¦   ¦   +---example
+    ¦       ¦   ¦   ¦   +---android
+    ¦       ¦   ¦   ¦   ¦   +---app
+    ¦       ¦   ¦   ¦   ¦   ¦   +---gradle
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---wrapper
+    ¦       ¦   ¦   ¦   ¦   ¦   +---src
+    ¦       ¦   ¦   ¦   ¦   ¦       +---main
+    ¦       ¦   ¦   ¦   ¦   ¦           +---java
+    ¦       ¦   ¦   ¦   ¦   ¦           ¦   +---io
+    ¦       ¦   ¦   ¦   ¦   ¦           ¦       +---flutter
+    ¦       ¦   ¦   ¦   ¦   ¦           ¦           +---plugins
+    ¦       ¦   ¦   ¦   ¦   ¦           ¦               +---connectivityexample
+    ¦       ¦   ¦   ¦   ¦   ¦           +---res
+    ¦       ¦   ¦   ¦   ¦   ¦               +---mipmap-hdpi
+    ¦       ¦   ¦   ¦   ¦   ¦               +---mipmap-mdpi
+    ¦       ¦   ¦   ¦   ¦   ¦               +---mipmap-xhdpi
+    ¦       ¦   ¦   ¦   ¦   ¦               +---mipmap-xxhdpi
+    ¦       ¦   ¦   ¦   ¦   ¦               +---mipmap-xxxhdpi
+    ¦       ¦   ¦   ¦   ¦   +---gradle
+    ¦       ¦   ¦   ¦   ¦       +---wrapper
+    ¦       ¦   ¦   ¦   +---integration_test
+    ¦       ¦   ¦   ¦   +---ios
+    ¦       ¦   ¦   ¦   ¦   +---Flutter
+    ¦       ¦   ¦   ¦   ¦   +---Runner
+    ¦       ¦   ¦   ¦   ¦   ¦   +---Assets.xcassets
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---AppIcon.appiconset
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---LaunchImage.imageset
+    ¦       ¦   ¦   ¦   ¦   ¦   +---Base.lproj
+    ¦       ¦   ¦   ¦   ¦   +---Runner.xcodeproj
+    ¦       ¦   ¦   ¦   ¦   ¦   +---project.xcworkspace
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---xcshareddata
+    ¦       ¦   ¦   ¦   ¦   ¦   +---xcshareddata
+    ¦       ¦   ¦   ¦   ¦   ¦       +---xcschemes
+    ¦       ¦   ¦   ¦   ¦   +---Runner.xcworkspace
+    ¦       ¦   ¦   ¦   ¦   ¦   +---xcshareddata
+    ¦       ¦   ¦   ¦   ¦   +---RunnerTests
+    ¦       ¦   ¦   ¦   +---lib
+    ¦       ¦   ¦   ¦   +---linux
+    ¦       ¦   ¦   ¦   ¦   +---flutter
+    ¦       ¦   ¦   ¦   +---macos
+    ¦       ¦   ¦   ¦   ¦   +---Flutter
+    ¦       ¦   ¦   ¦   ¦   +---Runner
+    ¦       ¦   ¦   ¦   ¦   ¦   +---Assets.xcassets
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---AppIcon.appiconset
+    ¦       ¦   ¦   ¦   ¦   ¦   +---Base.lproj
+    ¦       ¦   ¦   ¦   ¦   ¦   +---Configs
+    ¦       ¦   ¦   ¦   ¦   +---Runner.xcodeproj
+    ¦       ¦   ¦   ¦   ¦   ¦   +---project.xcworkspace
+    ¦       ¦   ¦   ¦   ¦   ¦   ¦   +---xcshareddata
+    ¦       ¦   ¦   ¦   ¦   ¦   +---xcshareddata
+    ¦       ¦   ¦   ¦   ¦   ¦       +---xcschemes
+    ¦       ¦   ¦   ¦   ¦   +---Runner.xcworkspace
+    ¦       ¦   ¦   ¦   ¦   ¦   +---xcshareddata
+    ¦       ¦   ¦   ¦   ¦   +---RunnerTests
+    ¦       ¦   ¦   ¦   +---web
+    ¦       ¦   ¦   ¦   ¦   +---icons
+    ¦       ¦   ¦   ¦   +---windows
+    ¦       ¦   ¦   ¦       +---flutter
+    ¦       ¦   ¦   ¦       +---runner
+    ¦       ¦   ¦   ¦           +---resources
+    ¦       ¦   ¦   +---ios
+    ¦       ¦   ¦   ¦   +---Classes
+    ¦       ¦   ¦   +---lib
+    ¦       ¦   ¦   ¦   +---src
+    ¦       ¦   ¦   ¦       +---web
+    ¦       ¦   ¦   ¦           +---utils
+    ¦       ¦   ¦   +---macos
+    ¦       ¦   ¦   ¦   +---Classes
+    ¦       ¦   ¦   +---test
+    ¦       ¦   ¦   +---windows
+    ¦       ¦   ¦       +---include
+    ¦       ¦   ¦           +---connectivity_plus
+    ¦       ¦   +---path_provider_windows
+    ¦       ¦   ¦   +---example
+    ¦       ¦   ¦   ¦   +---integration_test
+    ¦       ¦   ¦   ¦   +---lib
+    ¦       ¦   ¦   ¦   +---test_driver
+    ¦       ¦   ¦   ¦   +---windows
+    ¦       ¦   ¦   ¦       +---flutter
+    ¦       ¦   ¦   ¦       +---runner
+    ¦       ¦   ¦   ¦           +---resources
+    ¦       ¦   ¦   +---lib
+    ¦       ¦   ¦   ¦   +---src
+    ¦       ¦   ¦   +---test
+    ¦       ¦   +---shared_preferences_windows
+    ¦       ¦       +---example
+    ¦       ¦       ¦   +---integration_test
+    ¦       ¦       ¦   +---lib
+    ¦       ¦       ¦   +---test_driver
+    ¦       ¦       ¦   +---windows
+    ¦       ¦       ¦       +---flutter
+    ¦       ¦       ¦       +---runner
+    ¦       ¦       ¦           +---resources
+    ¦       ¦       +---lib
+    ¦       ¦       +---test
+    ¦       +---cpp_client_wrapper
+    ¦           +---include
+    ¦               +---flutter
+    +---runner
+        +---resources
