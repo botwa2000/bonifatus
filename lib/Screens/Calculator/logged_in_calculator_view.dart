@@ -202,17 +202,29 @@ class _LoggedInCalculatorViewState extends State<LoggedInCalculatorView> {
           'get_term_results',
           {'student_id': widget.userId}
       );
-
+      print(response); // Print the response here
       if (mounted) {
-        if (response != null && response['success'] == true) {
+        // Check if response and success are not null
+        if (response != null && response['success'] is bool && response['success']) {
           final results = response['data'] as List<dynamic>?;
+          // Check if results is not null and not empty
           if (results != null && results.isNotEmpty) {
             final latestResult = results.first;
-            setState(() {
-              _existingTestId = int.tryParse(latestResult['test_id'].toString());
-              // Set other fields as needed
-            });
+            // Check if test_id is not null
+            if (latestResult['test_id'] != null) {
+              setState(() {
+                // Use tryParse to handle potential null values
+                _existingTestId = int.tryParse(latestResult['test_id'].toString());
+                // Set other fields as needed
+              });
+            } else {
+              // Handle the case where 'test_id' is null
+              print('Error: test_id is null in API response');
+            }
           }
+        } else {
+          // Handle API error or null success value
+          print('Error loading results: ${response['message'] ?? 'Unknown error'}');
         }
       }
     } catch (e) {
